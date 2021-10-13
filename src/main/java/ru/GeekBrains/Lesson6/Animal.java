@@ -7,7 +7,6 @@ public class Animal {
     static int animalCount;
 
     public Animal() {
-
     }
 
     public Animal (String name) {

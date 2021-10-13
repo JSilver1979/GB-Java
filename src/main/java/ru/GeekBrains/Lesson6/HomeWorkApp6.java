@@ -20,6 +20,5 @@ public class HomeWorkApp6 {
         System.out.println("Собак пробежало: " + Dog.dogCount);
         System.out.println("Котов проплыло: " + Cat.catCount);
         System.out.println("Животных создано: " + Animal.animalCount);
-
     }
 }

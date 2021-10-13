@@ -3,6 +3,7 @@ package ru.GeekBrains.Lesson6;
 public class Cat extends Animal {
     static int catCount;
 
+
     public Cat (String name) {
         this.name = name;
         runStamina = 200;

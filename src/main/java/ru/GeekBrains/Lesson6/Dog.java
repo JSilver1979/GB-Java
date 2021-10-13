@@ -1,6 +1,6 @@
 package ru.GeekBrains.Lesson6;
 
-public class Dog extends Animal{
+public class Dog extends Animal {
     static int dogCount;
 
     public Dog (String name) {
