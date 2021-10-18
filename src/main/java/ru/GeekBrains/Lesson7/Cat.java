@@ -24,3 +24,4 @@ public class Cat {
         System.out.println("Cat fullness: " + fullness);
     }
 }
+
