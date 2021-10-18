@@ -4,11 +4,7 @@ public class HomeWorkApp7 {
     public static void main(String[] args) {
         Cat cat = new Cat("Barsik", 21);
         Plate plate = new Plate(50);
-//        cat.info();
-//        plate.info();
-//        cat.eat(plate);
-//        cat.info();
-//        plate.info();
+
 
         Cat[] cats  = new Cat[3];
         cats[0] = new Cat ("Murzik", 10);
